@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Peter Parker",
+      "cpf": "001-111-111-01",
+      "cep": "12343",
+      "logradouro": "Rua Tulipan 123",
+      "bairro": "Santo Amaro",
+      "localidade": "Sao Paulo",
+      "uf": "12"
+    },
+    {
+      "id": "2",
+      "nome": "Ben Really",
+      "cpf": "001-222-333-01",
+      "cep": "345632",
+      "logradouro": "Rua Tulipan 222",
+      "bairro": "Ciudade Costera",
+      "localidade": "Sao Paulo",
+      "uf": "15"
+    },
+    {
+      "id": "3",
+      "nome": "Adam Ventura",
+      "cpf": "001-112-333-01",
+      "cep": "23412",
+      "logradouro": "Rua Tulipan 444",
+      "bairro": "Ciudade Costera",
+      "localidade": "Sao Paulo",
+      "uf": "15"
+    },
+    {
+      "id": "4",
+      "nome": "Adam Westling",
+      "cpf": "001-112-333-01",
+      "cep": "23412",
+      "logradouro": "Rua Tulipan 44j4",
+      "bairro": "Ciudade Costera",
+      "localidade": "Sao Paulo",
+      "uf": "15"
+    }
+  ]
+}
